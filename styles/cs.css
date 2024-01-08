@@ -1,0 +1,75 @@
+
+
+.cs {
+    display: flex;
+    margin-left: 265px;
+    
+}
+
+.csimg {
+    margin-left: 70px;
+}
+
+.cs div {
+    align-items: center;
+}
+
+.cst1 {
+    width: 393px;
+    height: 255px;
+    margin-top: px;
+}
+
+.cst1p1 {
+    color: #F00;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.cst1p2 {
+    color: #070211;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.cst1p3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.cst2 {
+    width: 276px;
+    height: 170px;
+    margin-left: 118px;
+    margin-top: 50px;
+}
+
+.cst2p1 {
+    color: #F00;
+    font-family: 'Inter' , sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.cst2p2 {
+    width: 276px;
+}
+
+.cst2img {
+    margin-top: 35px;
+}

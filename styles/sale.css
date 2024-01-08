@@ -1,0 +1,54 @@
+
+.sale-t {
+    text-align: center;
+    margin-left: 266px;
+    margin-right: 266px;
+    margin-top: 122px;
+}
+.st1 {
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.sth {
+    color: #F00;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.st2 {
+    color: #070211;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.st3 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+    width: 1068px;
+    margin-left: 10%;
+}
+
+.sale-img {
+    display: block;
+    
+    margin-left: 260px;
+    
+}

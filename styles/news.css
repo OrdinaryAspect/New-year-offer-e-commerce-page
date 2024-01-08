@@ -1,0 +1,39 @@
+.News {
+    background: url("../images/mail.svg");
+    width: 100%;
+   height: 616px;
+   margin-top: 120px;
+   background-repeat: no-repeat;
+   margin-left: 120px;
+}
+
+.email {
+    margin-left: 453px;
+}
+
+.doit {
+    margin-top: 487px;
+    width: 437px;
+    height: 69px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border-color: #FFF;
+    border: 0;
+    position: relative;
+}
+
+.meta {
+    margin-top: 487px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    position: sticky;
+    border-color: #F00;
+}
+
+.doit::placeholder {
+    color: rgba(7, 2, 17, 0.30);
+    position: absolute;
+    right:310px
+}
